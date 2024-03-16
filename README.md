@@ -28,15 +28,15 @@ Download and install the latest python version from their site https://www.pytho
 
 Linux:
 Download and install the latest python version:
-`sudo apt-get install python`
+```sudo apt-get install python```
 
 - Telebot
 install latest version:
-`pip install pyTelegramBotAPI`
+```pip install pyTelegramBotAPI```
 
 - Pymongo
 install latest version:
-`pip install pymongo`
+```pip install pymongo```
 
 The bot comes with database that store and manage its data
 
