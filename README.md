@@ -22,16 +22,17 @@ At first you need to install the requirements:
 - Telebot
 - Pymongo
 
+Starting with python
 - Python
-Windows:
+ on Windows:
 Download and install the latest python version from their site https://www.python.org/downloads/
 
-Linux:
+on Linux:
 Download and install the latest python version:
 ```sudo apt-get install python```
 
 - Telebot
-install latest version:
+ install latest version:
 ```pip install pyTelegramBotAPI```
 
 - Pymongo
