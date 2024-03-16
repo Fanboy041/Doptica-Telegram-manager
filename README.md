@@ -1,1 +1,1 @@
-# Telegram-manager
+# Doptica-Telegram-manager
